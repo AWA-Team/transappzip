@@ -1,2 +1,2 @@
 # transappzip
-php and android
+android part
